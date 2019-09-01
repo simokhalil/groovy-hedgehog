@@ -1,9 +1,10 @@
 ---
 slug: europe
-title: Plants from Europe
+title: Plantes Européennes
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 5
-layout: category
+
 ---
