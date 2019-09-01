@@ -1,9 +1,10 @@
 ---
 slug: bigplants
-title: Big plants
+title: Grandes plantes
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 7
-layout: category
+
 ---
