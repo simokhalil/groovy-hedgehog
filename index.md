@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Accueil
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# De belles plantes réelles pour tous les goûts
